@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.0b81db8d.css",
-    "main.js": "/static/js/main.06264ecc.js",
-    "static/media/weathersong.png": "/static/media/weathersong.ca38d97337254e756147.png",
-    "static/media/gameday.png": "/static/media/gameday.72409ecc26fd1fcdd850.png",
-    "static/media/dream-team.png": "/static/media/dream-team.14c657e2c02148c53436.png",
-    "static/media/password-generator.png": "/static/media/password-generator.edac1adbed96a9af810e.png",
-    "static/media/note-taker.png": "/static/media/note-taker.baa645f6c18808cc4546.png",
-    "static/media/home-icon.png": "/static/media/home-icon.649b98f340eee3177c88.png",
-    "static/media/Matthew-DeHart-1.pdf": "/static/media/Matthew-DeHart-1.690ea223fad60a27463d.pdf",
-    "static/media/about-me.png": "/static/media/about-me.bdbe7393b472e4a557a4.png",
-    "index.html": "/index.html",
-    "main.0b81db8d.css.map": "/static/css/main.0b81db8d.css.map",
-    "main.06264ecc.js.map": "/static/js/main.06264ecc.js.map"
+    "main.css": "/unique-react-portfolio/static/css/main.0b81db8d.css",
+    "main.js": "/unique-react-portfolio/static/js/main.33589256.js",
+    "static/media/weathersong.png": "/unique-react-portfolio/static/media/weathersong.ca38d97337254e756147.png",
+    "static/media/gameday.png": "/unique-react-portfolio/static/media/gameday.72409ecc26fd1fcdd850.png",
+    "static/media/dream-team.png": "/unique-react-portfolio/static/media/dream-team.14c657e2c02148c53436.png",
+    "static/media/password-generator.png": "/unique-react-portfolio/static/media/password-generator.edac1adbed96a9af810e.png",
+    "static/media/note-taker.png": "/unique-react-portfolio/static/media/note-taker.baa645f6c18808cc4546.png",
+    "static/media/home-icon.png": "/unique-react-portfolio/static/media/home-icon.649b98f340eee3177c88.png",
+    "static/media/Matthew-DeHart-1.pdf": "/unique-react-portfolio/static/media/Matthew-DeHart-1.690ea223fad60a27463d.pdf",
+    "static/media/about-me.png": "/unique-react-portfolio/static/media/about-me.bdbe7393b472e4a557a4.png",
+    "index.html": "/unique-react-portfolio/index.html",
+    "main.0b81db8d.css.map": "/unique-react-portfolio/static/css/main.0b81db8d.css.map",
+    "main.33589256.js.map": "/unique-react-portfolio/static/js/main.33589256.js.map"
   },
   "entrypoints": [
     "static/css/main.0b81db8d.css",
-    "static/js/main.06264ecc.js"
+    "static/js/main.33589256.js"
   ]
 }
