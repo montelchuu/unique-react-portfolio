@@ -2,7 +2,6 @@ import React from "react";
 import { Container, Nav, Navbar } from "react-bootstrap";
 import { NavLink } from "react-router-dom";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { } from "@fortawesome/free-regular-svg-icons";
 import { faHouse, faUser, faFile, faLink, faUsersRectangle, faM, faD } from "@fortawesome/free-solid-svg-icons";
 
 function Navigation() {
@@ -19,7 +18,7 @@ function Navigation() {
             </Navbar.Toggle>
             <Navbar.Collapse id="basic-navbar-nav">
                 <Nav className="me-auto mx-5">
-                    <NavLink to="/home" className="nav" style={({ isActive }) => ({ 
+                    <NavLink to="/" className="nav" style={({ isActive }) => ({ 
                         color: isActive ? 'orange' : 'gray', textDecoration: 'none' })}>
                         <FontAwesomeIcon style={{ marginTop: "3px", marginRight: "7px" }} icon={ faHouse } />Home
                     </NavLink>
