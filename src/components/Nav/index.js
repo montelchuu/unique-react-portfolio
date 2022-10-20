@@ -18,7 +18,7 @@ function Navigation() {
             </Navbar.Toggle>
             <Navbar.Collapse id="basic-navbar-nav">
                 <Nav className="me-auto mx-5">
-                    <NavLink to="/" className="nav" style={({ isActive }) => ({ 
+                    <NavLink to="/unique-react-portfolio" className="nav" style={({ isActive }) => ({ 
                         color: isActive ? 'orange' : 'gray', textDecoration: 'none' })}>
                         <FontAwesomeIcon style={{ marginTop: "3px", marginRight: "7px" }} icon={ faHouse } />Home
                     </NavLink>
