@@ -3,6 +3,8 @@
 
 ### Github URL: [montelchuu](https://github.com/montelchuu/)
 
+### Live URL: [Click Here](https://montelchuu.github.io/unique-react-portfolio/)
+
 # Description
 A portfolio created using react. 
 
